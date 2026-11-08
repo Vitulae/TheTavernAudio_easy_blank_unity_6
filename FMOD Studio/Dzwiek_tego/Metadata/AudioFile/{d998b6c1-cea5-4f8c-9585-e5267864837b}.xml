@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d998b6c1-cea5-4f8c-9585-e5267864837b}">
+		<property name="assetPath">
+			<value>luminewave-infinity-love-629401.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>76.408163265306129</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{34b1d64d-950d-419c-8cf3-44d4a21cc9e1}</destination>
+		</relationship>
+	</object>
+</objects>
