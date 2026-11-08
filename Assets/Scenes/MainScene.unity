@@ -3468,7 +3468,7 @@ MonoBehaviour:
       Data4: -862540708
     Path: event:/Tego
   Event: 
-  EventPlayTrigger: 0
+  EventPlayTrigger: 1
   EventStopTrigger: 0
   AllowFadeout: 1
   TriggerOnce: 0
